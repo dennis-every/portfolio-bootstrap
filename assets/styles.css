@@ -1,15 +1,15 @@
 .technologies {
-  display: flex; 
-  justify-content: space-around; 
-  flex-wrap: wrap;
-  margin-bottom: 50px;  
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin-bottom: 50px;
 }
 .technologies span {
-  margin: 5px;
+	margin: 5px;
 }
-.contact-form-header{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 120px;  
+.contact-form-header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 90px;
 }
