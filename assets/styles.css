@@ -3,3 +3,9 @@
   justify-content: space-around; 
   margin-bottom: 50px;
 }
+.contact-form-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 120px;  
+}
