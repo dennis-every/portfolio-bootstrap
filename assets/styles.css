@@ -1,7 +1,11 @@
 .technologies {
   display: flex; 
   justify-content: space-around; 
-  margin-bottom: 50px;
+  flex-wrap: wrap;
+  margin-bottom: 50px;  
+}
+.technologies span {
+  margin: 5px;
 }
 .contact-form-header{
   display: flex;
